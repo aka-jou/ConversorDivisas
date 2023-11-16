@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Fjalla+One&family=Inter:wght@600&display=swap");
+
+.bton1 {
+  width: 172px;
+  height: 64px;
+  left: 1000px;
+  top: 350px;
+  background: #006ce0;
+  border-radius: 90px;
+  position: absolute;
+  width: 131px;
+  height: 50px;
+  left: 880px;
+  top: 350px;
+  font-family: "Inter";
+  font-style: normal;
+  font-size: 11px;
+  line-height: 13px;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  border: none;
+}
+.taza {
+  position: absolute;
+  top: 250px;
+  left: 425px;
+  color: #24C124;
+}
+
+.cajaa {
+  position: absolute;
+  width: 1028px;
+  height: 412px;
+  left: 280px;
+  top: 169px;
+
+  background: #dddddd;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+}
+
+.historial {
+  width: 172px;
+  height: 64px;
+  top: 350px;
+  background: #006ce0;
+  border-radius: 90px;
+  position: absolute;
+  width: 131px;
+  height: 50px;
+  left: 10px;
+  top: 350px;
+  font-family: "Inter";
+  font-style: normal;
+  font-size: 11px;
+  line-height: 13px;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  border: none;
+}

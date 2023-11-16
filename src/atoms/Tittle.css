@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Fjalla+One&family=Inter:wght@600&display=swap");
+
+.tle {
+  position: absolute;
+  width: 990px;
+  height: 72px;
+  left: 400px;
+  top: 65px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 50px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+}

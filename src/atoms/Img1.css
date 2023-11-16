@@ -1,0 +1,9 @@
+.Rectan {
+  position: absolute;
+  width: 1519px;
+  height: 333px;
+  top: 0px;
+  left: 0px;
+  background: #006ce0;
+  border-radius: 0px 0px 500px 500px;
+}

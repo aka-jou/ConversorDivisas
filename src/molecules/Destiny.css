@@ -1,0 +1,87 @@
+
+
+.a {
+  position: absolute;
+  width: 145px;
+  height: 28px;
+  right: 260px;
+  top: 120px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 13px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.fuck {
+  position: absolute;
+  width: 0px;
+  height: 0px;
+  left: 600px;
+  top: 160px;
+  background-color: white;
+  border-radius: 26px;
+  border: none;
+  outline: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.fxd {
+  display: flex;
+  height: 50px;
+  width: 200px;
+  background-color: white;
+  outline: none;
+  color: #000000;
+  border: none;
+  position: absolute;
+  left: 670px;
+  border-top-right-radius: 26px;
+  border-bottom-right-radius: 26px;
+  top: 150px;
+}
+
+.select2 {
+  left: 600px;
+  width: 70px;
+  height: 50px;
+  background-color: white;
+  color: #000000;
+  border: none;
+  position: absolute;
+  outline: none;
+  border-top-left-radius: 26px;
+  border-bottom-left-radius: 26px;
+  top: 150px;
+}
+
+.text {
+  position: absolute;
+  color: #24C124;
+  margin-left: 5px;
+  bottom: -3px;
+}
+
+.result {
+  height: 50px;
+  width: 200px;
+  background-color: white;
+  outline: none;
+  color: #000000;
+  border: none;
+  position: absolute;
+  left: 670px;
+  border-top-right-radius: 26px;
+  border-bottom-right-radius: 26px;
+  top: 150px;
+}
+
+.a{
+  position: absolute;
+  left: 620px;
+  top: 110px;
+}
